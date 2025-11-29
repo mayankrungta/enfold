@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(gh:*)",
+      "Bash(netlify:*)",
+      "WebFetch(domain:sites.google.com)",
+      "WebFetch(domain:juvenile-justice-game.netlify.app)",
+      "mcp__playwright__browser_navigate"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
